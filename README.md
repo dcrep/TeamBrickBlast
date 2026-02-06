@@ -5,6 +5,8 @@ A simple brick-based barrier that requires 3 hits to destroy.
 
 Requirement was for it to have a satisfying feel.
 
+Playable at https://dcrep.github.io/TeamBrickBlast/
+
 Controls: standard WASD + mouse move and left-click melee attack
 
 'R' key reloads scene
