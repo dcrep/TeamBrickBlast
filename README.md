@@ -15,6 +15,7 @@ Controls: standard WASD + mouse move and left-click melee attack
 - Daniel Corritore (object setup/interaction, programming)
 - Ian North (art, audio)
 
+Source at https://github.com/2026-01-GDEV290/barrier-urp-6-1-11-teambrick
 
 Some audio and VFX assets are from owned assets
 Decal was from OpenGameArt
